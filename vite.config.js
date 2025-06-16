@@ -14,6 +14,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: 5173,
-    allowedHosts: ['all']
+    allowedHosts: ['all', '739ba05e-c34c-47cb-b7a8-83d8cd979fc0-00-g9x630ha06yt.riker.replit.dev']
   }
 })
